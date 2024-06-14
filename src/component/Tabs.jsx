@@ -7,10 +7,6 @@ const Tabs = () => (
   className="flex flex-col w-[300px] shadow-[0_2px_10px] shadow-blackA2"
   defaultValue="tab1"
 >
-  <div className=" bg-[#252836] pt-10 pl-10 pb-6">
-              <h1 className="font-barlow font-semi-bold text-[#FFFFFF] text-[28px]">Jaegar Resto</h1>
-              <h2 className="font-barlow font-[400] text-[16px] text-[#E0E6E9] mt-[4px]">Tuesday, 2 Feb 2021</h2>
-          </div>
   <Tabs.List className="shrink-0 flex border-b border-mauve6" aria-label="Manage your account">
     <Tabs.Trigger
       className=" bg-[#252836] px-5 h-[45px] flex-1 flex items-center justify-center text-[15px] leading-none text-[#FFFFFF] select-none first:rounded-tl-md last:rounded-tr-md hover:text-violet11 data-[state=active]:text-[#FFFFFF] data-[state=active]:shadow-[inset_0_-1px_0_0,0_1px_0_0] data-[state=active]:shadow-current data-[state=active]:focus:relative data-[state=active]:focus:shadow-[0_0_0_2px] data-[state=active]:focus:shadow-black outline-none cursor-default"
