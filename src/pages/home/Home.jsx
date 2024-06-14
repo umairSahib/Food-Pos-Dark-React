@@ -8,7 +8,7 @@ const Home = () => {
       <div className=" flex   mt-[35px]">
          <SideBar/>
         <Dishes/>
-        <Orders/>
+        {/* <Orders/> */}
  
        </div>
     </div>
