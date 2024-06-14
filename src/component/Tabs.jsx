@@ -1,6 +1,7 @@
 import React from 'react';
 import * as Tabs from '@radix-ui/react-tabs';
 import Cards from '../component/Cards'
+import ColdDishes from './coldDishes';
 
 
 const tabs = () => (
@@ -59,53 +60,7 @@ const tabs = () => (
     className="grow p-5 bg-[#252836] rounded-b-md outline-none focus:shadow-[0_0_0_2px] focus:shadow-black"
     value="tab2"
   >
-    <p className="mb-5 text-mauve11 text-[15px] text-[#FFFFFF] leading-normal">
-      Change your password here. After saving, you'll be logged out.
-    </p>
-    <fieldset className="mb-[15px] w-full flex flex-col justify-start">
-      <label
-        className="text-[13px]  leading-none mb-2.5 text-[#FFFFFF] block"
-        htmlFor="currentPassword"
-      >
-        Current password
-      </label>
-      <input
-        className="grow shrink-0 rounded px-2.5 text-[15px] bg-[#2D303E] leading-none text-[#FFFFFF] shadow-[0_0_0_1px] shadow-violet7 h-[35px] focus:shadow-[0_0_0_2px] focus:shadow-violet8 outline-none"
-        id="currentPassword"
-        type="password"
-      />
-    </fieldset>
-    <fieldset className="mb-[15px] w-full flex flex-col justify-start">
-      <label
-        className="text-[13px] leading-none mb-2.5 text-[#FFFFFF] block"
-        htmlFor="newPassword"
-      >
-        New password
-      </label>
-      <input
-        className="grow shrink-0 rounded  px-2.5 bg-[#2D303E] text-[15px] leading-none text-[#FFFFFF] shadow-[0_0_0_1px] shadow-violet7 h-[35px] focus:shadow-[0_0_0_2px] focus:shadow-violet8 outline-none"
-        id="newPassword"
-        type="password"
-      />
-    </fieldset>
-    <fieldset className="mb-[15px] w-full flex flex-col justify-start">
-      <label
-        className="text-[13px] leading-none  mb-2.5 text-[#FFFFFF] block"
-        htmlFor="confirmPassword"
-      >
-        Confirm password
-      </label>
-      <input
-        className="grow shrink-0 rounded px-2.5 bg-[#2D303E] text-[15px] leading-none text-[#FFFFFF] shadow-[0_0_0_1px] shadow-violet7 h-[35px] focus:shadow-[0_0_0_2px] focus:shadow-violet8 outline-none"
-        id="confirmPassword"
-        type="password"
-      />
-    </fieldset>
-    <div className="flex justify-end mt-5">
-      <button className="inline-flex items-center justify-center rounded px-[15px] text-[15px] leading-none font-medium h-[35px] bg-[#2D303E] text-[#FFFFFF] hover:bg-[#EA7C69] focus:shadow-[0_0_0_2px] border border-[#FFFFFF] focus:shadow-green7 outline-none cursor-default">
-        Change password
-      </button>
-    </div>
+   <ColdDishes/>
   </Tabs.Content>
 </Tabs.Root>
 );

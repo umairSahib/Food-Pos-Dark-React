@@ -17,7 +17,7 @@ const coldDishes = () => {
 
               <div className=" bg-[#1F1D2B] rounded-[18px] w-[182px] h-[226px] flex flex-col items-center">
                 <div className="w-[182px] h-[226px] flex justify-center items-center -mt-[50px]">
-                  <img src="images/image(11).jpeg" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
+                  <img src="images/image25.jpeg" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
                 </div>
               
                 <div className=" flex justify-center text-[#FFFFFF] font-barlow font-medium text-sm">Salted Pasta with </div>
@@ -28,7 +28,7 @@ const coldDishes = () => {
     
               <div className=" bg-[#1F1D2B] rounded-[18px]  w-[182px] h-[226px] flex flex-col items-center">
                 <div className="w-[182px] h-[226px] flex justify-center items-center -mt-[50px]">
-                  <img src="images/image11.jpeg" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
+                  <img src="images/image10.jpeg" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
                 </div>
               
                 <div className=" flex justify-center text-[#FFFFFF] font-barlow font-medium text-sm">Beef dumpling in hot </div>
@@ -42,7 +42,7 @@ const coldDishes = () => {
         <div className="mt-[64px] flex gap-[18px]">
             <div className=" bg-[#1F1D2B] rounded-[18px]  w-[182px] h-[226px] flex flex-col items-center">
                 <div className="w-[182px] h-[226px] flex justify-center items-center -mt-[50px]">
-                  <img src="images/image10.jpeg" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
+                  <img src="images/download.jpeg" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
                 </div>
               
                 <div className="mt-[16px] flex justify-center text-[#FFFFFF] font-barlow font-medium text-sm">Healthy noodle with </div>
@@ -53,7 +53,7 @@ const coldDishes = () => {
 
               <div className=" bg-[#1F1D2B] rounded-[18px]  w-[182px] h-[226px] flex flex-col items-center">
                 <div className="w-[182px] h-[226px] flex justify-center items-center -mt-[50px]">
-                  <img src="images/image8.jpeg" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
+                  <img src="images/image23.jpg" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
                 </div>
               
                 <div className=" flex justify-center text-[#FFFFFF] font-barlow font-medium text-sm">Hot spicy fried rice  </div>
@@ -64,7 +64,7 @@ const coldDishes = () => {
     
               <div className=" bg-[#1F1D2B] rounded-[18px]  w-[182px] h-[226px] flex flex-col items-center">
                 <div className="w-[182px] h-[226px] flex justify-center items-center -mt-[50px]">
-                  <img src="images/image7.jpeg" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
+                  <img src="images/image24.jpg" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
                 </div>
               
                 <div className=" flex justify-center text-[#FFFFFF] font-barlow font-medium text-sm">Spicy instant noodle </div>

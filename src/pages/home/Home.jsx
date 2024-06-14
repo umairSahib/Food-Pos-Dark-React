@@ -2,7 +2,7 @@ import React from 'react'
 import SideBar from '../../component/sideBar'
 import Dishes from '../../component/Dishes'
 import Tabs from '../../component/tabs'
-import ColdDishes from '../../component/coldDishes'
+// import ColdDishes from '../../component/coldDishes'
 // import Jaegar from '../../component/jaegar'
 // import ChooseDishes from '../../component/chooseDishes'
 
@@ -20,7 +20,7 @@ const Home = () => {
        {/* <Jaegar/> */}
        {/* <ChooseDishes/> */}
        <Tabs/>
-       <ColdDishes/>
+       {/* <ColdDishes/> */}
     </div>
   )
 }
