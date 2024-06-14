@@ -1,18 +1,14 @@
 
 import './index.css'
 import './App.css'
+import Home from './pages/home/Home';
 
-import Radix from './component/radix';
-import Index from './pages/home/index';
 
 
 function App() {
   return (
     <div>
-
-       <Radix/>
-       <Index/>
-
+       <Home/>
       </div>
   )
 }
