@@ -2,6 +2,9 @@ import React from 'react';
 import * as Tabs from '@radix-ui/react-tabs';
 import Cards from '../component/Cards'
 import ColdDishes from './coldDishes';
+import Soup from './soup';
+import Grill from './grill';
+import Appetizer from './Appetizer';
 
 
 const tabs = () => (
@@ -61,6 +64,24 @@ const tabs = () => (
     value="tab2"
   >
    <ColdDishes/>
+  </Tabs.Content>
+  <Tabs.Content
+    className="grow p-5 bg-[#252836] rounded-b-md outline-none focus:shadow-[0_0_0_2px] focus:shadow-black"
+    value="tab3"
+  >
+   <Soup/>
+  </Tabs.Content>
+  <Tabs.Content
+    className="grow p-5 bg-[#252836] rounded-b-md outline-none focus:shadow-[0_0_0_2px] focus:shadow-black"
+    value="tab4"
+  >
+   <Grill/>
+  </Tabs.Content>
+  <Tabs.Content
+    className="grow p-5 bg-[#252836] rounded-b-md outline-none focus:shadow-[0_0_0_2px] focus:shadow-black"
+    value="tab5"
+  >
+   <Appetizer/>
   </Tabs.Content>
 </Tabs.Root>
 );
