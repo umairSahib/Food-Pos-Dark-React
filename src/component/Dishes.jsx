@@ -30,7 +30,7 @@ const Dishes = () => {
         <div className="mt-[64px] flex gap-[18px]">
             <div className=" bg-[#1F1D2B] rounded-[18px]  w-[182px] h-[226px] flex flex-col items-center">
                 <div className="w-[182px] h-[226px] flex justify-center items-center -mt-[50px]">
-                  <img src="images/image(1).png" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
+                  <img src="images/hotdish2.png" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
                 </div>
               
                 <div className="mt-[16px] flex justify-center text-[#FFFFFF] font-barlow font-medium text-sm">Spicy seasoned</div>
@@ -41,7 +41,7 @@ const Dishes = () => {
 
               <div className=" bg-[#1F1D2B] rounded-[18px] w-[182px] h-[226px] flex flex-col items-center">
                 <div className="w-[182px] h-[226px] flex justify-center items-center -mt-[50px]">
-                  <img src="images/image(2).png" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
+                  <img src="images/hotdish4.png" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
                 </div>
               
                 <div className=" flex justify-center text-[#FFFFFF] font-barlow font-medium text-sm">Salted Pasta with </div>
@@ -52,7 +52,7 @@ const Dishes = () => {
     
               <div className=" bg-[#1F1D2B] rounded-[18px]  w-[182px] h-[226px] flex flex-col items-center">
                 <div className="w-[182px] h-[226px] flex justify-center items-center -mt-[50px]">
-                  <img src="images/images.png" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
+                  <img src="images/hotdish10.png" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
                 </div>
               
                 <div className=" flex justify-center text-[#FFFFFF] font-barlow font-medium text-sm">Beef dumpling in hot </div>
@@ -66,7 +66,7 @@ const Dishes = () => {
         <div className="mt-[64px] flex gap-[18px]">
             <div className=" bg-[#1F1D2B] rounded-[18px]  w-[182px] h-[226px] flex flex-col items-center">
                 <div className="w-[182px] h-[226px] flex justify-center items-center -mt-[50px]">
-                  <img src="images/images(4).png" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
+                  <img src="images/hotdish8.png" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
                 </div>
               
                 <div className="mt-[16px] flex justify-center text-[#FFFFFF] font-barlow font-medium text-sm">Healthy noodle with </div>
@@ -77,7 +77,7 @@ const Dishes = () => {
 
               <div className=" bg-[#1F1D2B] rounded-[18px]  w-[182px] h-[226px] flex flex-col items-center">
                 <div className="w-[182px] h-[226px] flex justify-center items-center -mt-[50px]">
-                  <img src="images/images(4).png" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
+                  <img src="images/hotdish8.png" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
                 </div>
               
                 <div className=" flex justify-center text-[#FFFFFF] font-barlow font-medium text-sm">Hot spicy fried rice  </div>
@@ -88,7 +88,7 @@ const Dishes = () => {
     
               <div className=" bg-[#1F1D2B] rounded-[18px]  w-[182px] h-[226px] flex flex-col items-center">
                 <div className="w-[182px] h-[226px] flex justify-center items-center -mt-[50px]">
-                  <img src="images/image(6).png" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
+                  <img src="images/hotdish6.png" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
                 </div>
               
                 <div className=" flex justify-center text-[#FFFFFF] font-barlow font-medium text-sm">Spicy instant noodle </div>
