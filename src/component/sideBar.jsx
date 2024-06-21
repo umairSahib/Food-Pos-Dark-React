@@ -3,7 +3,7 @@ import React from 'react'
 const sideBar = () => {
   return (
    <>        {/* SideBar */}
-     <div className="sidebar bg-[#1F1D2B]  basis-1/10 ">
+     <div className="sidebar bg-[#1F1D2B] ">
       <div className="grid grid-cols-1 grid-rows-8 h-full">
         <div className="flex items-center justify-center bg-[#1F1D2B] w-full h-[102px]">
           <div className="flex items-center justify-center bg-[#1F1D2B] rounded-tl-lg rounded-bl-lg w-[92px] h-[80px]">

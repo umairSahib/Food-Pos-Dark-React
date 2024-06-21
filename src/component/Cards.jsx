@@ -5,8 +5,8 @@ const Cards = () => {
     <div>
  
  <div className="mt-[64px] flex gap-[18px]">
-            <div className=" bg-[#1F1D2B] rounded-[18px]  w-[200px] h-[226px] flex flex-col items-center">
-                <div className="w-[200px] h-[226px] flex justify-center items-center -mt-[50px]">
+            <div className=" bg-[#1F1D2B] rounded-[18px]  w-[186px] h-[226px] flex flex-col items-center">
+                <div className="w-[186px] h-[226px] flex justify-center items-center -mt-[50px]">
                   <img src="images/hotdish1.jpeg" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
                 </div>
               
@@ -15,8 +15,8 @@ const Cards = () => {
                 <div className="mt-[8px] flex justify-center text-[#FFFFFF] font-barlow font-normal text-sm">$ 2.29</div>
                 <div className="mt-[4px] mb-[24px] flex justify-center text-[#ABBBC2] font-barlow font-normal text-sm">20 Bowls available</div>
               </div>
-            <div className=" bg-[#1F1D2B] rounded-[18px]  w-[200px] h-[226px] flex flex-col items-center">
-                <div className="w-[200px] h-[226px] flex justify-center items-center -mt-[50px]">
+            <div className=" bg-[#1F1D2B] rounded-[18px]  w-[186px] h-[226px] flex flex-col items-center">
+                <div className="w-[186px] h-[226px] flex justify-center items-center -mt-[50px]">
                   <img src="images/hotdish2.png" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
                 </div>
               
@@ -25,8 +25,8 @@ const Cards = () => {
                 <div className="mt-[8px] flex justify-center text-[#FFFFFF] font-barlow font-normal text-sm">$ 2.29</div>
                 <div className="mt-[4px] mb-[24px] flex justify-center text-[#ABBBC2] font-barlow font-normal text-sm">20 Bowls available</div>
               </div>
-            <div className=" bg-[#1F1D2B] rounded-[18px]  w-[200px] h-[226px] flex flex-col items-center">
-                <div className="w-[200px] h-[226px] flex justify-center items-center -mt-[50px]">
+            <div className=" bg-[#1F1D2B] rounded-[18px]  w-[186px] h-[226px] flex flex-col items-center">
+                <div className="w-[186px] h-[226px] flex justify-center items-center -mt-[50px]">
                   <img src="images/hotdish3.jpeg" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
                 </div>
               
@@ -35,8 +35,8 @@ const Cards = () => {
                 <div className="mt-[8px] flex justify-center text-[#FFFFFF] font-barlow font-normal text-sm">$ 2.29</div>
                 <div className="mt-[4px] mb-[24px] flex justify-center text-[#ABBBC2] font-barlow font-normal text-sm">20 Bowls available</div>
               </div>
-            <div className=" bg-[#1F1D2B] rounded-[18px]  w-[200px] h-[226px] flex flex-col items-center">
-                <div className="w-[200px] h-[226px] flex justify-center items-center -mt-[50px]">
+            <div className=" bg-[#1F1D2B] rounded-[18px]  w-[186px] h-[226px] flex flex-col items-center">
+                <div className="w-[186px] h-[226px] flex justify-center items-center -mt-[50px]">
                   <img src="images/hotdish4.png" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
                 </div>
               
@@ -46,8 +46,8 @@ const Cards = () => {
                 <div className="mt-[4px] mb-[24px] flex justify-center text-[#ABBBC2] font-barlow font-normal text-sm">20 Bowls available</div>
               </div>
 
-              <div className=" bg-[#1F1D2B] rounded-[18px] w-[200px] h-[226px] flex flex-col items-center">
-                <div className="w-[200px] h-[226px] flex justify-center items-center -mt-[50px]">
+              <div className=" bg-[#1F1D2B] rounded-[18px] w-[186px] h-[226px] flex flex-col items-center">
+                <div className="w-[186px] h-[226px] flex justify-center items-center -mt-[50px]">
                   <img src="images/hotdish5.jpeg" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
                 </div>
               
@@ -57,8 +57,8 @@ const Cards = () => {
                 <div className="mt-[4px] mb-[24px] flex justify-center text-[#ABBBC2] font-barlow font-normal text-sm">11 Bowls available</div>
               </div>
     
-              <div className=" bg-[#1F1D2B] rounded-[18px]  w-[200px] h-[226px] flex flex-col items-center">
-                <div className="w-[200px] h-[226px] flex justify-center items-center -mt-[50px]">
+              <div className=" bg-[#1F1D2B] rounded-[18px]  w-[186px] h-[226px] flex flex-col items-center">
+                <div className="w-[186px] h-[226px] flex justify-center items-center -mt-[50px]">
                   <img src="images/hotdish6.png" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
                 </div>
               
@@ -71,8 +71,8 @@ const Cards = () => {
               
         </div>
         <div className="mt-[64px] flex gap-[18px]">
-            <div className=" bg-[#1F1D2B] rounded-[18px]  w-[200px] h-[226px] flex flex-col items-center">
-                <div className="w-[200px] h-[226px] flex justify-center items-center -mt-[50px]">
+            <div className=" bg-[#1F1D2B] rounded-[18px]  w-[186px] h-[226px] flex flex-col items-center">
+                <div className="w-[186px] h-[226px] flex justify-center items-center -mt-[50px]">
                   <img src="images/hotdish7.jpeg" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
                 </div>
               
@@ -81,8 +81,8 @@ const Cards = () => {
                 <div className="mt-[8px] flex justify-center text-[#FFFFFF] font-barlow font-normal text-sm">$ 3.29</div>
                 <div className="mt-[4px] mb-[24px] flex justify-center text-[#ABBBC2] font-barlow font-normal text-sm">22 Bowls available</div>
               </div>
-            <div className=" bg-[#1F1D2B] rounded-[18px]  w-[200px] h-[226px] flex flex-col items-center">
-                <div className="w-[200px] h-[226px] flex justify-center items-center -mt-[50px]">
+            <div className=" bg-[#1F1D2B] rounded-[18px]  w-[186px] h-[226px] flex flex-col items-center">
+                <div className="w-[186px] h-[226px] flex justify-center items-center -mt-[50px]">
                   <img src="images/hotdish8.png" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
                 </div>
               
@@ -91,8 +91,8 @@ const Cards = () => {
                 <div className="mt-[8px] flex justify-center text-[#FFFFFF] font-barlow font-normal text-sm">$ 3.29</div>
                 <div className="mt-[4px] mb-[24px] flex justify-center text-[#ABBBC2] font-barlow font-normal text-sm">22 Bowls available</div>
               </div>
-            <div className=" bg-[#1F1D2B] rounded-[18px]  w-[200px] h-[226px] flex flex-col items-center">
-                <div className="w-[200px] h-[226px] flex justify-center items-center -mt-[50px]">
+            <div className=" bg-[#1F1D2B] rounded-[18px]  w-[186px] h-[226px] flex flex-col items-center">
+                <div className="w-[186px] h-[226px] flex justify-center items-center -mt-[50px]">
                   <img src="images/hotdish9.jpeg" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
                 </div>
               
@@ -101,8 +101,8 @@ const Cards = () => {
                 <div className="mt-[8px] flex justify-center text-[#FFFFFF] font-barlow font-normal text-sm">$ 3.29</div>
                 <div className="mt-[4px] mb-[24px] flex justify-center text-[#ABBBC2] font-barlow font-normal text-sm">22 Bowls available</div>
               </div>
-            <div className=" bg-[#1F1D2B] rounded-[18px]  w-[200px] h-[226px] flex flex-col items-center">
-                <div className="w-[200px] h-[226px] flex justify-center items-center -mt-[50px]">
+            <div className=" bg-[#1F1D2B] rounded-[18px]  w-[186px] h-[226px] flex flex-col items-center">
+                <div className="w-[186px] h-[226px] flex justify-center items-center -mt-[50px]">
                   <img src="images/hotdish10.png" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
                 </div>
               
@@ -112,8 +112,8 @@ const Cards = () => {
                 <div className="mt-[4px] mb-[24px] flex justify-center text-[#ABBBC2] font-barlow font-normal text-sm">22 Bowls available</div>
               </div>
 
-              <div className=" bg-[#1F1D2B] rounded-[18px]  w-[200px] h-[226px] flex flex-col items-center">
-                <div className="w-[200px] h-[226px] flex justify-center items-center -mt-[50px]">
+              <div className=" bg-[#1F1D2B] rounded-[18px]  w-[186px] h-[226px] flex flex-col items-center">
+                <div className="w-[186px] h-[226px] flex justify-center items-center -mt-[50px]">
                   <img src="images/hotdish11.jpeg" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
                 </div>
               
@@ -123,8 +123,8 @@ const Cards = () => {
                 <div className="mt-[4px] mb-[24px] flex justify-center text-[#ABBBC2] font-barlow font-normal text-sm">13 Bowls available</div>
               </div>
     
-              <div className=" bg-[#1F1D2B] rounded-[18px]  w-[200px] h-[226px] flex flex-col items-center">
-                <div className="w-[200px] h-[226px] flex justify-center items-center -mt-[50px]">
+              <div className=" bg-[#1F1D2B] rounded-[18px]  w-[186px] h-[226px] flex flex-col items-center">
+                <div className="w-[186px] h-[226px] flex justify-center items-center -mt-[50px]">
                   <img src="images/hotdish12.jpg" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
                 </div>
               
