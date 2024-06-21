@@ -6,7 +6,7 @@ const Jaegar = () => {
    <div className="w-full bg-[#2D303E] ">
    <div className="flex justify-between items-center  bg-[#2D303E] w-full ">
             <div className="">
-                <h1 className="font-barlow font-semi-bold text-[#FFFFFF] text-[28px]">Jaegar Resto</h1>
+                <h1 className="font-barlow font-semibold text-[#FFFFFF] text-[28px]">Jaegar Resto</h1>
                 <h2 className="font-barlow font-[400] text-[16px] text-[#E0E6E9] mt-[4px]">Tuesday, 2 Feb 2021</h2>
             </div>
             <div className=" flex items-center p-[14px] bg-[#2D303E] w-[220px] h-[48px] rounded-[8px] border border-#393C49">

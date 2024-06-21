@@ -80,7 +80,7 @@ const Setting = () => {
   
   </div>
    <div className="ml-[24px] w-1/3 ">
-      <h1 className="font-barlow font-semi-bold text-[#FFFFFF] text-[28px] mb-[24px] pt-[24px]">Settings</h1>
+      <h1 className="font-barlow font-semibold text-[#FFFFFF] text-[28px] mb-[24px] pt-[24px]">Settings</h1>
        
       <div className="bg-[#1F1D2B]  h-[723px] rounded-[8px]">
          
@@ -145,8 +145,8 @@ const Setting = () => {
    <div className="bg-[#1F1D2B] w-2/3 h-[815px] ml-[24px] rounded-[8px]  mr-[24px] ">
   
    <div className="flex justify-between items-center pt-[24px] pl-[24px] pr-[24px]">
-      <h1 className="text-[#FFFFFF] text-[20px] font-barlow font-semi-bold">Products Management</h1>
-      <button className= " flex gap-[5px] items-center justify-center w-[178px] h-[48px] bg-#211E2D border border-[#393C49] rounded-[8px] text-[#FFFFFF] text-[14px] font-barlow font-semi-bold" ><i className="fa-solid fa-grip-lines text-[#FFFFFF]"></i>Manage Categories</button>
+      <h1 className="text-[#FFFFFF] text-[20px] font-barlow font-semibold">Products Management</h1>
+      <button className= " flex gap-[5px] items-center justify-center w-[178px] h-[48px] bg-#211E2D border border-[#393C49] rounded-[8px] text-[#FFFFFF] text-[14px] font-barlow font-semibold" ><i className="fa-solid fa-grip-lines text-[#FFFFFF]"></i>Manage Categories</button>
    </div>
    <div className="flex gap-[32px] mt-[24px] border-b border-[#393C49] ml-[24px]">
       <button className="text-[#EA7C69] font-barlow font-[600] text-[14px] border-b-2 border-[#EA7C69]"> <a href="">Hot Dishes</a></button>
@@ -162,7 +162,7 @@ const Setting = () => {
           <button className="bg-[#1F1D2B] w-[48px] h-[48px] p-[14px] rounded-[8px] hover:bg-[#50343a]">
               <i className="fa-solid fa-plus text-[#EA7C69] text-normal"></i>
           </button>
-          <h1 className="text-[#EA7C69] text-[16px] font-barlow font-semi-bold mt-[20px]">
+          <h1 className="text-[#EA7C69] text-[16px] font-barlow font-semibold mt-[20px]">
               Add new dish
           </h1>
       </div>

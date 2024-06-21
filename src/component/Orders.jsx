@@ -4,17 +4,17 @@ const Orders = () => {
   return (
     <div>
          <div className="bg-[#1F1D2B] basis-3/10 h-[834px] rounded-tr-8 rounded-br-8 pt-[24px] pl-[24px] pr-[24px]">
-    <h1 className="font-barlow font-semi-bold text-[20px] text-[#FFFFFF]">Orders #34562</h1>
+    <h1 className="font-barlow font-semibold text-[20px] text-[#FFFFFF]">Orders #34562</h1>
     <div className="flex gap-[8px] mt-[24px]">
-      <button className="flex items-center justify-center bg-[#EA7C69] w-[66px] h-[34px] rounded-[8px] font-barlow font-normal text-semi-bold text-[#FFFFFF] hover:bg-[#50343a] p-[7px, 12px, 7px, 12px]  "><a href="/">Dine In</a></button>
-      <button className="flex items-center justify-center bg-[#1F1D2B] w-[58px] h-[34px] rounded-[8px] border-2 border-#393C49 font-barlow font-normal text-semi-bold text-[#EA7C69] hover:bg-[#EA7C69] hover:text-[#FFFFFF] p-[7px, 12px, 7px, 12px]"><a href="/">To Go</a></button>
-      <button className="flex items-center justify-center bg-[#1F1D2B] w-[74px] h-[34px] rounded-[8px] border-2 border-#393C49 font-barlow font-normal text-semi-bold text-[#EA7C69] hover:bg-[#EA7C69] hover:text-[#FFFFFF] p-[7px, 12px, 7px, 12px]"><a href="/">Delivery</a></button>
+      <button className="flex items-center justify-center bg-[#EA7C69] w-[66px] h-[34px] rounded-[8px] font-barlow font-normal text-semibold text-[#FFFFFF] hover:bg-[#50343a] p-[7px, 12px, 7px, 12px]  "><a href="/">Dine In</a></button>
+      <button className="flex items-center justify-center bg-[#1F1D2B] w-[58px] h-[34px] rounded-[8px] border-2 border-#393C49 font-barlow font-normal text-semibold text-[#EA7C69] hover:bg-[#EA7C69] hover:text-[#FFFFFF] p-[7px, 12px, 7px, 12px]"><a href="/">To Go</a></button>
+      <button className="flex items-center justify-center bg-[#1F1D2B] w-[74px] h-[34px] rounded-[8px] border-2 border-#393C49 font-barlow font-normal text-semibold text-[#EA7C69] hover:bg-[#EA7C69] hover:text-[#FFFFFF] p-[7px, 12px, 7px, 12px]"><a href="/">Delivery</a></button>
     </div>
     <div className="flex justify-between mt-[24px]">
-       <h2 className="font-semi-bold font-barlow text-[#FFFFFF] text-[16px]">Item</h2>
+       <h2 className="font-semibold font-barlow text-[#FFFFFF] text-[16px]">Item</h2>
        <div className="flex gap-[43px]">
-        <h2 className="font-semi-bold font-barlow text-[#FFFFFF] text-[16px]">Qty</h2>
-        <h2 className="font-semi-bold font-barlow text-[#FFFFFF] text-[16px]">Price</h2>
+        <h2 className="font-semibold font-barlow text-[#FFFFFF] text-[16px]">Qty</h2>
+        <h2 className="font-semibold font-barlow text-[#FFFFFF] text-[16px]">Price</h2>
        </div>
     </div>
     <div className="mt-[24px] border border-#393C49"></div>
@@ -83,14 +83,14 @@ const Orders = () => {
     </div>
     <div className="flex justify-between mt-[24px]">
       <h2 className="text-[#ABBBC2] font-barlow font-[400] text-[14px] ">Discount</h2> 
-      <h2 className="font-barlow font-semi-bold text-[#FFFFFF] text-[16px]">$0</h2> 
+      <h2 className="font-barlow font-semibold text-[#FFFFFF] text-[16px]">$0</h2> 
     </div>
     <div className="flex justify-between mt-[16px]">
       <h2 className="text-[#ABBBC2] font-barlow font-[400] text-[14px] ">Sub total</h2> 
-      <h2 className="font-barlow font-semi-bold text-[#FFFFFF] text-[16px]"> $ 21,03</h2> 
+      <h2 className="font-barlow font-semibold text-[#FFFFFF] text-[16px]"> $ 21,03</h2> 
     </div>
     <div className="w-[361px] h-[48px] bg-[#EA7C69] p-[14px] rounded-[8px] flex items-center justify-center mt-[42px] hover:bg-[#50343a]">
-      <button className="text-#FAFAFA font-barlow font-semi-bold ">Continue to Payment</button>
+      <button className="text-#FAFAFA font-barlow font-semibold ">Continue to Payment</button>
     </div>
   </div>
     </div>
