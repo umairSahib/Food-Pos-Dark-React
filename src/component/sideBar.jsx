@@ -15,11 +15,14 @@ const sideBar = () => {
 
         <div className="flex items-center justify-center bg-[#1F1D2B] w-full h-[102px]">
           <div className="flex items-center justify-center bg-[#1F1D2B] hover:bg-[#252836] rounded-tl-lg rounded-bl-lg w-[92px] h-[80px]">
-            <div className="flex items-center justify-center bg-[#1F1D2B] rounded-lg active:bg-[#f8fafc] hover:bg-gray-600 cursor-pointer w-[56px] h-[56px] p-[16px]">
-              <i className="fas fa-house text-4xl text-[#EA7C69] flex items-center justify-center active:text-[#EA7C69]"></i>
+            <div className="flex items-center justify-center bg-[#EA7C69] rounded-lg active:bg-[#EA7C69]  cursor-pointer w-[56px] h-[56px] p-[16px]">
+              <i className="fas fa-house text-4xl text-[#f8fafc] flex items-center justify-center active:text-[#f8fafc]"></i>
             </div>
           </div>
         </div>
+
+
+
 
         <div className="flex items-center justify-center bg-[#1F1D2B] w-full h-[102px]">
           <div className="flex items-center justify-center bg-[#1F1D2B] hover:bg-[#252836] rounded-tl-lg rounded-bl-lg w-[92px] h-[80px]">
@@ -55,8 +58,8 @@ const sideBar = () => {
 
         <div className="flex items-center justify-center bg-[#1F1D2B] w-full h-[102px]">
           <div className="flex items-center justify-center bg-[#1F1D2B] hover:bg-[#252836] rounded-tl-lg rounded-bl-lg w-[92px] h-[80px]">
-            <div className="flex items-center justify-center bg-[#EA7C69] rounded-lg active:bg-[#EA7C69] cursor-pointer w-[56px] h-[56px] p-[16px]">
-              <i className="fas  fa-gear text-4xl text-[#f8fafc] flex items-center justify-center active:text-[#f8fafc]"></i>
+            <div className="flex items-center justify-center bg-[#1F1D2B] rounded-lg active:bg-[#EA7C69] cursor-pointer w-[56px] h-[56px] p-[16px]">
+              <i className="fas  fa-gear text-4xl text-[#EA7C69] flex items-center justify-center active:text-[#f8fafc]"></i>
             </div>
           </div>
         </div>
@@ -71,8 +74,8 @@ const sideBar = () => {
 
        
       </div>
-      </div>
-      </>
+    </div>
+   </>
 
   )
 }
