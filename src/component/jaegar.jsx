@@ -3,8 +3,8 @@ import React from 'react'
 const Jaegar = () => {
   return (
     <div>
-   <div className="bg-[#2D303E] mt-3">
-   <div className="flex justify-between items-center bg-[#2D303E] ">
+   <div className="w-full bg-[#2D303E] ">
+   <div className="flex justify-between items-center  bg-[#2D303E] w-full ">
             <div className="">
                 <h1 className="font-barlow font-semi-bold text-[#FFFFFF] text-[28px]">Jaegar Resto</h1>
                 <h2 className="font-barlow font-[400] text-[16px] text-[#E0E6E9] mt-[4px]">Tuesday, 2 Feb 2021</h2>

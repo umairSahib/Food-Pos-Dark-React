@@ -1,8 +1,9 @@
 import React from 'react'
+import Tabs from './tabs'
 
 const Dishes = () => {
   return (
-    <div>
+    <>
    <div className="bg-[#252836] basis-8/10 h-auto pt-[24px] pl-[24px] pr-[24px]">
         <div className="flex justify-between items-center">
             <div className="">
@@ -14,20 +15,16 @@ const Dishes = () => {
                 <h2 className="font-barlow font-[400] text-[14px] text-[#ABBBC2]">Search for food, coffe, etc..</h2></button>
               </div>
         </div>
-        <div className="flex gap-[32px] mt-[24px] border-b border-#393C49">
-            <button className="text-[#EA7C69] font-barlow font-[600] text-[14px] border-b-2 border-[#EA7C69]"> <a href="">Hot Dishes</a></button>
-            <button className="text-[#FFFFFF] font-barlow font-[600] text-[14px]"> <a href="">Cold Dishes</a></button>
-            <button className="text-[#FFFFFF] font-barlow font-[600] text-[14px]"> <a href="">Soup</a></button>
-            <button className="text-[#FFFFFF] font-barlow font-[600] text-[14px]"> <a href="">Grill</a></button>
-            <button className="text-[#FFFFFF] font-barlow font-[600] text-[14px]"> <a href="">Appetizer</a></button>
-            <button className="text-[#FFFFFF] font-barlow font-[600] text-[14px]"> <a href="">Dessert</a></button>
-        </div>
+      
         <div className="mt-[24px] flex justify-between items-center">
             <h1 className="text-[#FFFFFF] text-[20px] font-barlow font-semi-bold">Choose Dishes</h1>
             <button className="flex items-center justify-center whitespace-pre gap-[10px] bg-[#1F1D2B] text-[#FFFFFF] w-[100px] h-[48px] p-[14px] rounded-[8px] font-barlow font-normal text-medium hover-bg-[#EA7C69]"><i className="fa-solid fa-angle-down text-[#FFFFFF]"></i><a href="">Dine In</a></button>
         </div>
 
-        <div className="mt-[64px] flex gap-[18px]">
+      <div className="cla">
+
+        <Tabs/>
+      {/* <div className="mt-[64px] flex gap-[18px]">
             <div className=" bg-[#1F1D2B] rounded-[18px]  w-[182px] h-[226px] flex flex-col items-center">
                 <div className="w-[182px] h-[226px] flex justify-center items-center -mt-[50px]">
                   <img src="images/hotdish2.png" alt="image" className="rounded-t-lg w-[132px] h-[132px] object-cover" />
@@ -98,11 +95,12 @@ const Dishes = () => {
               </div>
               
               
-        </div>
+        </div> */}
+      </div>
         
 
   </div>
-    </div>
+    </>
   )
 }
 
