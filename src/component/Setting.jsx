@@ -148,7 +148,7 @@ const Setting = () => {
       <h1 className="text-[#FFFFFF] text-xl font-barlow font-semibold">Products Management</h1>
       <button className= " flex gap-[5px] items-center justify-center w-[178px] h-12 bg-#211E2D border border-[#393C49] rounded text-[#FFFFFF] text-sm font-barlow font-semibold" ><i className="fa-solid fa-grip-lines text-[#FFFFFF]"></i>Manage Categories</button>
    </div>
-   <div className="flex gap-[32px] mt-6 border-b border-[#393C49] ml-[24px]">
+   <div className="flex gap-8 mt-6 border-b border-[#393C49] ml-[24px]">
       <button className="text-[#EA7C69] font-barlow font-[600] text-sm border-b-2 border-[#EA7C69]"> <a href="">Hot Dishes</a></button>
       <button className="text-[#FFFFFF] font-barlow font-[600] text-sm"> <a href="">Cold Dishes</a></button>
       <button className="text-[#FFFFFF] font-barlow font-[600] text-sm"> <a href="">Soup</a></button>

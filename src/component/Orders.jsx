@@ -6,9 +6,9 @@ const Orders = () => {
          <div className="bg-[#1F1D2B] basis-3/10 h-[834px] rounded-tr-8 rounded-br-8 pt-[24px] pl-[24px] pr-[24px]">
     <h1 className="font-barlow font-semibold text-xl text-[#FFFFFF]">Orders #34562</h1>
     <div className="flex gap-3 mt-6">
-      <button className="flex items-center justify-center bg-[#EA7C69] w-[66px] h-[34px] rounded font-barlow font-normal text-semibold text-[#FFFFFF] hover:bg-[#50343a] p-[7px, 12px, 7px, 12px]  "><a href="/">Dine In</a></button>
-      <button className="flex items-center justify-center bg-[#1F1D2B] w-[58px] h-[34px] rounded border-2 border-#393C49 font-barlow font-normal text-semibold text-[#EA7C69] hover:bg-[#EA7C69] hover:text-[#FFFFFF] p-[7px, 12px, 7px, 12px]"><a href="/">To Go</a></button>
-      <button className="flex items-center justify-center bg-[#1F1D2B] w-[74px] h-[34px] rounded border-2 border-#393C49 font-barlow font-normal text-semibold text-[#EA7C69] hover:bg-[#EA7C69] hover:text-[#FFFFFF] p-[7px, 12px, 7px, 12px]"><a href="/">Delivery</a></button>
+      <button className="flex items-center justify-center bg-[#EA7C69]  rounded font-barlow font-normal text-semibold text-[#FFFFFF] hover:bg-[#50343a] p-[7px_12px_7px_12px]  "><a href="/">Dine In</a></button>
+      <button className="flex items-center justify-center bg-[#1F1D2B]  rounded border-2 border-#393C49 font-barlow font-normal text-semibold text-[#EA7C69] hover:bg-[#EA7C69] hover:text-[#FFFFFF] p-[7px_12px_7px_12px]"><a href="/">To Go</a></button>
+      <button className="flex items-center justify-center bg-[#1F1D2B]  rounded border-2 border-#393C49 font-barlow font-normal text-semibold text-[#EA7C69] hover:bg-[#EA7C69] hover:text-[#FFFFFF] p-[7px_12px_7px_12px]"><a href="/">Delivery</a></button>
     </div>
     <div className="flex justify-between mt-6">
        <h2 className="font-semibold font-barlow text-[#FFFFFF] text-base">Item</h2>
