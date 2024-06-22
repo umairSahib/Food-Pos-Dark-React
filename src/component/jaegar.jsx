@@ -14,14 +14,7 @@ const Jaegar = () => {
                 <h2 className="font-barlow font-normal text-sm text-[#ABBBC2]">Search for food, coffe, etc..</h2></button>
               </div>
         </div>
-        <div className="flex gap-8 mt-6 border-b border-[#393C49] ">
-            <button className="text-[#EA7C69] font-barlow font-semibold text-sm border-b-2 border-[#EA7C69]"> <a href="">Hot Dishes</a></button>
-            <button className="text-[#FFFFFF] font-barlow font-semibold text-sm"> <a href="">Cold Dishes</a></button>
-            <button className="text-[#FFFFFF] font-barlow font-semibold text-sm"> <a href="">Soup</a></button>
-            <button className="text-[#FFFFFF] font-barlow font-semibold text-sm"> <a href="">Grill</a></button>
-            <button className="text-[#FFFFFF] font-barlow font-semibold text-sm"> <a href="">Appetizer</a></button>
-            <button className="text-[#FFFFFF] font-barlow font-semibold text-sm"> <a href="">Dessert</a></button>
-        </div>
+ 
        
    </div>
     </div>
