@@ -16,37 +16,37 @@ const tabs = () => (
 >
   <Tabs.List className="shrink-0 flex border-b border-mauve6" aria-label="Manage your account">
     <Tabs.Trigger
-      className=" bg-[#252836] px-5 h-[45px] flex-1 flex items-center justify-center text-[15px] leading-none text-[#FFFFFF] select-none first:rounded-tl-md last:rounded-tr-md hover:text-[#EA7C69] data-[state=active]:text-[#EA7C69]   outline-none cursor-pointer"
+      className=" bg-[#252836] px-5 h-12 flex-1 flex items-center justify-center text-[15px] leading-none text-[#FFFFFF] select-none first:rounded-tl-md last:rounded-tr-md hover:text-[#EA7C69] data-[state=active]:text-[#EA7C69]   outline-none cursor-pointer"
       value="tab1"
     >
       Hot Dishes
     </Tabs.Trigger>
     <Tabs.Trigger
-      className=" bg-[#252836] px-5 h-[45px] flex-1 flex items-center justify-center text-[15px] leading-none text-[#FFFFFF] select-none first:rounded-tl-md last:rounded-tr-md hover:text-violet11 data-[state=active]:text-[#EA7C69]  outline-none cursor-pointer"
+      className=" bg-[#252836] px-5 h-12 flex-1 flex items-center justify-center text-[15px] leading-none text-[#FFFFFF] select-none first:rounded-tl-md last:rounded-tr-md hover:text-violet11 data-[state=active]:text-[#EA7C69]  outline-none cursor-pointer"
       value="tab2"
     >
       Cold Dishes
     </Tabs.Trigger>
     <Tabs.Trigger
-      className="bg-[#252836] px-5 h-[45px] flex-1 flex items-center justify-center text-[15px] leading-none text-[#FFFFFF] select-none first:rounded-tl-md last:rounded-tr-md hover:text-violet11 data-[state=active]:text-[#EA7C69]  outline-none cursor-pointer"
+      className="bg-[#252836] px-5 h-12 flex-1 flex items-center justify-center text-[15px] leading-none text-[#FFFFFF] select-none first:rounded-tl-md last:rounded-tr-md hover:text-violet11 data-[state=active]:text-[#EA7C69]  outline-none cursor-pointer"
       value="tab3"
     >
         Soup
     </Tabs.Trigger>
     <Tabs.Trigger
-      className="bg-[#252836] px-5 h-[45px] flex-1 flex items-center justify-center text-[15px] leading-none text-[#FFFFFF] select-none first:rounded-tl-md last:rounded-tr-md hover:text-violet11 data-[state=active]:text-[#EA7C69]  outline-none cursor-pointer"
+      className="bg-[#252836] px-5 h-12 flex-1 flex items-center justify-center text-[15px] leading-none text-[#FFFFFF] select-none first:rounded-tl-md last:rounded-tr-md hover:text-violet11 data-[state=active]:text-[#EA7C69]  outline-none cursor-pointer"
       value="tab4"
     >
       Grill
     </Tabs.Trigger>
     <Tabs.Trigger
-      className="bg-[#252836] px-5 h-[45px] flex-1 flex items-center justify-center text-[15px] leading-none text-[#FFFFFF] select-none first:rounded-tl-md last:rounded-tr-md hover:text-violet11 data-[state=active]:text-[#EA7C69]  outline-none cursor-pointer"
+      className="bg-[#252836] px-5 h-12 flex-1 flex items-center justify-center text-[15px] leading-none text-[#FFFFFF] select-none first:rounded-tl-md last:rounded-tr-md hover:text-violet11 data-[state=active]:text-[#EA7C69]  outline-none cursor-pointer"
       value="tab5"
     >
       Appetizer
     </Tabs.Trigger>
     <Tabs.Trigger
-      className="bg-[#252836] px-5 h-[45px] flex-1 flex items-center justify-center text-[15px] leading-none text-[#FFFFFF] select-none first:rounded-tl-md last:rounded-tr-md hover:text-violet11 data-[state=active]:text-[#EA7C69]  outline-none cursor-pointer"
+      className="bg-[#252836] px-5 h-12 flex-1 flex items-center justify-center text-[15px] leading-none text-[#FFFFFF] select-none first:rounded-tl-md last:rounded-tr-md hover:text-violet11 data-[state=active]:text-[#EA7C69]  outline-none cursor-pointer"
       value="tab6"
     >
       Dessert
