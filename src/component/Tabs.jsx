@@ -11,7 +11,7 @@ import Dessert from './dessert';
 const tabs = () => (
   
   <Tabs.Root
-  className="flex flex-col max-w-9xl shadow-[0_2px_10px] shadow-blackA2"
+  className="flex flex-col max-w-full shadow-[0_2px_10px] shadow-blackA2"
   defaultValue="tab1"
 >
   <Tabs.List className="shrink-0 flex border-b border-mauve6" aria-label="Manage your account">

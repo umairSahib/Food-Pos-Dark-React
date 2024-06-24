@@ -2,9 +2,7 @@ import React from 'react'
 import SideBar from '../../component/sideBar'
 
 import Dish from '../../component/dish'
-import Orders from '../../component/Orders'
-import Jaegar from '../../component/jaegar'
-
+import Drawer from '../../component/drawer'
 
 const Home = () => {
   return (
@@ -13,7 +11,7 @@ const Home = () => {
         <SideBar/>
         <Dish />
       </div>
-      <Jaegar/>
+     <Drawer/>
     </>
   )
 }
