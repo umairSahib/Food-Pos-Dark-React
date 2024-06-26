@@ -8,7 +8,7 @@ const Home = () => {
   return (
     <>
       <div className="flex">
-        <SideBar/>
+        {/* <SideBar/> */}
        <Cards/>
       </div>
     
