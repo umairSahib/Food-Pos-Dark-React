@@ -1,5 +1,7 @@
 import React from 'react'
 import Tabs from './tabs'
+import Drawer from './drawer'
+
 
 const dish = () => {
   return (
@@ -22,7 +24,9 @@ const dish = () => {
         </div>
         <div className="tab">
         <Tabs/>
+      
         </div>
+        
      </div>
     </>
   )

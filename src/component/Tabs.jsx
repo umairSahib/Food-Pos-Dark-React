@@ -1,6 +1,6 @@
 import React from 'react';
 import * as Tabs from '@radix-ui/react-tabs';
-import Cards from '../component/Cards'
+import Hotdishes from './hotdishes'
 import ColdDishes from './coldDishes';
 import Soup from './soup';
 import Grill from './grill';
@@ -56,7 +56,7 @@ const tabs = () => (
     className="grow p-5 bg-[#252836] rounded-b-md outline-none focus:shadow-[0_0_0_2px] focus:shadow-black"
     value="tab1"
   >
-   <Cards/>
+   <Hotdishes/>
    
    
     
