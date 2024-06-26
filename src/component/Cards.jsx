@@ -1,16 +1,25 @@
-import { useState } from 'react'
+import { useState } from 'react';
 import React from 'react'
+
 
 const Cards = () => {
   const [cart, setCart] = useState([])
-console.log(cart);
-
+  const newArray=[
+    {id: 1, name: "hot and sour", quantity:12,},
+    {id: 2, name: "hot and sour", quantity:13,},
+    {id: 3, name: "hot and sour", quantity:14,}
+  ]
+ console.log(cart);
   return (
     <div>
-      <button onClick={() => setCart([...cart, {id: 1, name: "hot and sour", }])}>Add to cart</button>
+      <button onClick={() => setCart(...cart, )}>Add to cart</button>
+       <button onClick={() => setCart(...cart, )}>Add to cart</button>
+       <button onClick={() => setCart(...cart, )}>Add to cart</button>
 
     </div>
   )
 }
 
 export default Cards
+
+
