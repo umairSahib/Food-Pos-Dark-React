@@ -5,7 +5,7 @@ const Home = () => {
   const [object, setObject] = useState('')
 
   function myParentData(data) {
-    
+   console.log(data);
     setObject(data)
     
   }
