@@ -5,14 +5,14 @@ const Home = () => {
   const [object, setObject] = useState('')
 
   function myParentData(data) {
-   console.log(data);
-    setObject(data)
-    
-  }
+  console.log("🚀 ~ myParentData ~ data:", data)
 
+    setObject(data)
+
+  }
   return (
     <>
-   
+
       <Product myData={myParentData} />
     </>
   )

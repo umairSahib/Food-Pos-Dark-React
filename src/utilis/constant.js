@@ -1,10 +1,4 @@
-import React from 'react'
-
-const Product = ({ myData }) => {
-  console.log("🚀 ~ Product ~ myData:", myData)
-  
-  
-  const equipment = [
+const equipment = [
     {
         parentName: 'No Gym',
         children: [
@@ -239,20 +233,3 @@ const Product = ({ myData }) => {
         ]
     },
 ]
-
-const filterDat = data.filter((obj) => {
-
-
-
-})
-
-  return (
-    <div>
-      
-      <button onClick={() => myData(equipment)}>Object</button>
-      
-    </div>
-  )
-}
-
-export default Product
