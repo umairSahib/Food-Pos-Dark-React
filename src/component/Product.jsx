@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Product = ({ myData }) => {
-  console.log("🚀 ~ Product ~ myData:", myData)
+ 
   
   
   const equipment = [
@@ -240,16 +240,21 @@ const Product = ({ myData }) => {
     },
 ]
 
-const filterDat = data.filter((obj) => {
+const findJumpRopeObject = () => {
+    const jumpRopeParents = equipment.filter((category) =>
+      category.children.some((item) => item.name === 'jump-rope')
+    );
+    return jumpRopeParents;
+  };
+  
+// const jumpRopeObject = equipment.parentName.filter((item) => item.name === 'jump-rope');
+// console.log("🚀 ~ Product ~ jumpRopeObject:", jumpRopeObject)
 
-
-
-})
 
   return (
     <div>
       
-      <button onClick={() => myData(equipment)}>Object</button>
+      <button onClick={() => myData(findJumpRopeObject())}>Object</button>
       
     </div>
   )
